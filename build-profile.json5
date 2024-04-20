@@ -1,6 +1,20 @@
 {
   "app": {
-    "signingConfigs": [],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "/Users/xiaoyu/.ohos/config/auto_debug_XyHarmonyOS_com.xy.harmony_80086000139700611.cer",
+          "storePassword": "0000001AB8A49414A06AD0C2B43CC2EC42C054355AF058935DD273DF99AF20E2936F6CCACE92781992B0",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001A548065FF58A4238B27AA2C558E972882A0FE37E8E1B5EECFF54C187A8476F94DE30D7E91CB5C",
+          "profile": "/Users/xiaoyu/.ohos/config/auto_debug_XyHarmonyOS_com.xy.harmony_80086000139700611.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "/Users/xiaoyu/.ohos/config/auto_debug_XyHarmonyOS_com.xy.harmony_80086000139700611.p12"
+        }
+      }
+    ],
     "compileSdkVersion": 9,
     "compatibleSdkVersion": 9,
     "products": [
