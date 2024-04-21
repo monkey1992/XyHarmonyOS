@@ -1,0 +1,9 @@
+{
+  "name": "xy-test-static-library",
+  "version": "1.0.0",
+  "description": "xy-test-static-library, test for har static library.",
+  "main": "index.ets",
+  "author": "monkey1992",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
